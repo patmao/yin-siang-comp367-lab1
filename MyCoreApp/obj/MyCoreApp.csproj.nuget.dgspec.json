@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yin Siang\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
+    "C:\\Users\\dgooding\\Documents\\GitHub\\yin-siang-comp367-lab1\\MyCoreApp\\MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yin Siang\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
+    "C:\\Users\\dgooding\\Documents\\GitHub\\yin-siang-comp367-lab1\\MyCoreApp\\MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yin Siang\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\dgooding\\Documents\\GitHub\\yin-siang-comp367-lab1\\MyCoreApp\\MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\Yin Siang\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
-        "packagesPath": "C:\\Users\\Yin Siang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yin Siang\\source\\repos\\MyCoreApp\\MyCoreApp\\obj\\",
+        "projectPath": "C:\\Users\\dgooding\\Documents\\GitHub\\yin-siang-comp367-lab1\\MyCoreApp\\MyCoreApp.csproj",
+        "packagesPath": "C:\\Users\\dgooding\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dgooding\\Documents\\GitHub\\yin-siang-comp367-lab1\\MyCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yin Siang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dgooding\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
